@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">gsheetwithimage</string>
+    <string name="인증">인증</string>
+    <string name="wpcnf">제출</string>
+    <string name="user_id">User ID</string>
+    <string name="user_name">User Name</string>
+    <string name="add_image">Add Image</string>
+    <string name="제출">제출</string>
+</resources>
